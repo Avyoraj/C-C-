@@ -1,2 +1,2 @@
 # C-CPP
- This is my Repo for My learnings Of C/C++ 
+ This is Repo dedicated for My learnings Of C/C++ 
